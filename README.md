@@ -3,6 +3,9 @@ Interesting Words
 
 Just a simple dictionary of words that I've found that I think are interesting...
 
+## A
+- **atavism** - the reappearance in an individual of characteristics of some remote ancestor that have been absent in intervening generations.
+
 ## F
 - **[frittle](http://frittle.sourceforge.net/)** - a temporary mark on the skin caused by the impression of a textured surface.
 
