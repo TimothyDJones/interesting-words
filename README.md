@@ -6,6 +6,9 @@ Just a simple dictionary of words that I've found that I think are interesting..
 ## A
 - **atavism** - the reappearance in an individual of characteristics of some remote ancestor that have been absent in intervening generations.
 
+## E
+- **eigengrau** - German word that literally means "instrinsic grey".  It is the color that you see in the absence of light.  The CSS hex code for eigengrau is [#16161D](http://www.colorhexa.com/16161d).
+
 ## F
 - **[frittle](http://frittle.sourceforge.net/)** - a temporary mark on the skin caused by the impression of a textured surface.
 
