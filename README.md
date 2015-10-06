@@ -6,6 +6,9 @@ Just a simple dictionary of words that I've found that I think are interesting..
 ## A
 - **atavism** - the reappearance in an individual of characteristics or some remote ancestor that have been absent in intervening generations.
 
+## C
+- **cruciverbalist** - a designer or enthusiast of crossword puzzles.
+
 ## E
 - **eigengrau** - German word that literally means "instrinsic grey".  It is the color that you see in the absence of light.  The CSS hex code for eigengrau is [#16161D](http://www.colorhexa.com/16161d).
 - **ennui** - Feeling of distressing weariness and discontent due to loss of interest; boredom. Interesting, the etymology begins with the French word for _annoy_.
