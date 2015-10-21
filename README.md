@@ -7,6 +7,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 - **atavism** - the reappearance in an individual of characteristics or some remote ancestor that have been absent in intervening generations.
 
 ## C
+- **[cromulent](https://en.wikipedia.org/wiki/Lisa_the_Iconoclast#Embiggen_and_cromulent)** - Neologism coined by Lisa Simpson (via writer [David X. Cohen](https://en.wikipedia.org/wiki/David_X._Cohen)) meaning excellent, legitimate, authentic, or fine.
 - **cruciverbalist** - a designer or enthusiast of crossword puzzles.
 
 ## E
