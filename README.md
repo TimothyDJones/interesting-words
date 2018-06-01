@@ -30,3 +30,6 @@ Just a simple dictionary of words that I've found that I think are interesting..
 - **[paroxysm](http://www.wesjones.com/eoh.htm)** - Sudden, often violent and/or uncontrollable, outburst (or fit or attack) of emotion or action. Literally "to sharpen the goads" in Greek.
 - **[plangent](https://en.wikipedia.org/wiki/The_Martian_Chronicles)** - Loud and resounding: plangent bells. Expressing or suggesting sadness; plaintive: “From a doorway came the plangent sounds of a guitar” (Malcolm Lowry). "beating with a loud sound," 1822, from Latin plangentem (nominative plangens), present participle of plangere "to strike, beat" (see plague (n.)).
 - **[prorupt](http://bigthink.com/strange-maps/595-its-always-chile-in-norway-the-five-types-of-territorial-morphology)** - Geographic term that describes a landmass split into a major and minor part joined by a short "corridor".
+
+## S
+- **[simulacrum](https://www.newyorker.com/culture/cultural-comment/the-growing-emptiness-of-the-star-wars-universe)** - A representation or imitation of a person or thing, originally describing statues or paintings of those things, but, now, often referring to simulated environments, such as the *Star Trek* holodeck or *Westworld*.
