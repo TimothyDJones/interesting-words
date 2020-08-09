@@ -9,6 +9,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 ## C
 - **[cromulent](https://en.wikipedia.org/wiki/Lisa_the_Iconoclast#Embiggen_and_cromulent)** - Neologism coined by Lisa Simpson (via writer [David X. Cohen](https://en.wikipedia.org/wiki/David_X._Cohen)) meaning excellent, legitimate, authentic, or fine.
 - **cruciverbalist** - a designer or enthusiast of crossword puzzles.
+- **cynosure** - From the Greek meaning literally literally **dog's tail, Ursa Minor**. Since this constellation contains Polaris, the guiding star, **cynosure** means something or someone who is the center of attention.
 
 ## E
 - **eigengrau** - German word that literally means "instrinsic grey".  It is the color that you see in the absence of light.  The CSS hex code for eigengrau is [#16161D](http://www.colorhexa.com/16161d).
