@@ -20,6 +20,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 
 ## G
 - **[gerschnorvels](http://adamierymenko.com/docker-not-even-a-linker/)** - incredibly useful things that stay conceptually mysterious for at least a while.
+- **[gluggavedur](https://www.devinsami.com/blog/things-i-learned-2019-part-3)** - Icelandic word meaning literally "window-weather" meaning that it looks appealing from the inside, but unpleasant to be out in.
 
 ## I
 - **[ineluctable](https://www.farnamstreetblog.com/2011/10/innovation-starvation/)** - something that cannot be avoided, changed, or resisted.
