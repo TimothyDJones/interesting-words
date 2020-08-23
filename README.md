@@ -4,6 +4,7 @@ Interesting Words
 Just a simple dictionary of words that I've found that I think are interesting...
 
 ## A
+- **apotheosis** - the peak or pinnacle or most perfect example of something: quintessence; often used in the context of the deification or elevation of a person to divine status.
 - **atavism** - the reappearance in an individual of characteristics or some remote ancestor that have been absent in intervening generations.
 
 ## C
