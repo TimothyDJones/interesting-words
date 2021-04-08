@@ -7,6 +7,9 @@ Just a simple dictionary of words that I've found that I think are interesting..
 - **apotheosis** - the peak or pinnacle or most perfect example of something: quintessence; often used in the context of the deification or elevation of a person to divine status.
 - **atavism** - the reappearance in an individual of characteristics or some remote ancestor that have been absent in intervening generations.
 
+## B
+- **bumptious** - obtrusively pushy; self-assertive to a pretentious extreme; obnoxiously or irritatingly conceited, arrogant, or forward.
+
 ## C
 - **[cromulent](https://en.wikipedia.org/wiki/Lisa_the_Iconoclast#Embiggen_and_cromulent)** - Neologism coined by Lisa Simpson (via writer [David X. Cohen](https://en.wikipedia.org/wiki/David_X._Cohen)) meaning excellent, legitimate, authentic, or fine.
 - **cruciverbalist** - a designer or enthusiast of crossword puzzles.
