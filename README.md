@@ -11,9 +11,10 @@ Just a simple dictionary of words that I've found that I think are interesting..
 - **bumptious** - obtrusively pushy; self-assertive to a pretentious extreme; obnoxiously or irritatingly conceited, arrogant, or forward.
 
 ## C
+- **chrestomathy** - From the Greek literally meaning "useful for learning" (χρηστομάθεια "desire of learning" = χρηστός "useful" + μανθάνω "learn"). A collection of literary passages, usually from a single author, for learning an unfamiliar language. The most well-known example is _[A Mencken Chrestomathy](https://archive.org/details/menckenchrestoma0000menc/mode/2up)_, [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)'s last book. Also, the [Rosetta Code](https://rosettacode.org/) web site calls itself "a programming _chrestomathy_ site".
 - **[cromulent](https://en.wikipedia.org/wiki/Lisa_the_Iconoclast#Embiggen_and_cromulent)** - Neologism coined by Lisa Simpson (via writer [David X. Cohen](https://en.wikipedia.org/wiki/David_X._Cohen)) meaning excellent, legitimate, authentic, or fine.
 - **cruciverbalist** - a designer or enthusiast of crossword puzzles.
-- **cynosure** - From the Greek meaning literally literally **dog's tail, Ursa Minor**. Since this constellation contains Polaris, the guiding star, **cynosure** means something or someone who is the center of attention.
+- **cynosure** - From the Greek meaning literally **dog's tail, Ursa Minor**. Since this constellation contains Polaris, the guiding star, **cynosure** means something or someone who is the center of attention.
 
 ## E
 - **eigengrau** - German word that literally means "instrinsic grey".  It is the color that you see in the absence of light.  The CSS hex code for eigengrau is [#16161D](http://www.colorhexa.com/16161d).
@@ -37,7 +38,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 
 ## P
 - **[paroxysm](http://www.wesjones.com/eoh.htm)** - Sudden, often violent and/or uncontrollable, outburst (or fit or attack) of emotion or action. Literally "to sharpen the goads" in Greek.
-- **[plangent](https://en.wikipedia.org/wiki/The_Martian_Chronicles)** - Loud and resounding: plangent bells. Expressing or suggesting sadness; plaintive: “From a doorway came the plangent sounds of a guitar” (Malcolm Lowry). "beating with a loud sound," 1822, from Latin plangentem (nominative plangens), present participle of plangere "to strike, beat" (see plague (n.)).
+- **[plangent](https://en.wikipedia.org/wiki/The_Martian_Chronicles)** - Loud and resounding: plangent bells. Expressing or suggesting sadness; plaintive: "From a doorway came the plangent sounds of a guitar" (Malcolm Lowry). "beating with a loud sound," 1822, from Latin plangentem (nominative plangens), present participle of plangere "to strike, beat" (see plague (n.)).
 - **[prorupt](http://bigthink.com/strange-maps/595-its-always-chile-in-norway-the-five-types-of-territorial-morphology)** - Geographic term that describes a landmass split into a major and minor part joined by a short "corridor".
 
 ## S
