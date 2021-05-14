@@ -11,6 +11,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 - **bumptious** - obtrusively pushy; self-assertive to a pretentious extreme; obnoxiously or irritatingly conceited, arrogant, or forward.
 
 ## C
+- **calumny** - a false accusation of wrong-doing or a malicious misrepresentation of someone's words or actions intended to damage their reputation or reduce other's respect for them.
 - **chrestomathy** - From the Greek literally meaning "useful for learning" (χρηστομάθεια "desire of learning" = χρηστός "useful" + μανθάνω "learn"). A collection of literary passages, usually from a single author, for learning an unfamiliar language. The most well-known example is _[A Mencken Chrestomathy](https://archive.org/details/menckenchrestoma0000menc/mode/2up)_, [H. L. Mencken](https://en.wikipedia.org/wiki/H._L._Mencken)'s last book. Also, the [Rosetta Code](https://rosettacode.org/) web site calls itself "a programming _chrestomathy_ site".
 - **[cromulent](https://en.wikipedia.org/wiki/Lisa_the_Iconoclast#Embiggen_and_cromulent)** - Neologism coined by Lisa Simpson (via writer [David X. Cohen](https://en.wikipedia.org/wiki/David_X._Cohen)) meaning excellent, legitimate, authentic, or fine.
 - **cruciverbalist** - a designer or enthusiast of crossword puzzles.
