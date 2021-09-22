@@ -8,6 +8,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 - **atavism** - the reappearance in an individual of characteristics or some remote ancestor that have been absent in intervening generations.
 
 ## B
+- **bezzle** - to plunder, pillage, or wanton lay waste to, such as in a riot. John Kenneth Galbraith also [coined a different usage](https://carnegieendowment.org/chinafinancialmarkets/85179) to mean the time between when fraud or embezzlement occurs and when it is discovered by the one who is harmed.
 - **bumptious** - obtrusively pushy; self-assertive to a pretentious extreme; obnoxiously or irritatingly conceited, arrogant, or forward.
 
 ## C
