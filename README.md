@@ -34,6 +34,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 
 ## M
 - **Mountweazel** - a bogus entry deliberately inserted in a reference work, usually as a safeguard against copyright infringement. The origin of the term is _The New Yorker_ writer Henry Alford, who used the fictitious name "Lillian Virginia Mountweazel" for a bogus entry in the fourth edition of _The New Columbia Encyclopedia_ [NCE] (1975).
+- **[murmuration](https://lithub.com/rebecca-solnit-when-the-hero-is-the-problem/)** - The swarm behavior of some birds, particularly starlings, when the flock flies and moves synchronously, often swooping, wheeling, and rising.
 
 ## N
 - **nachlass** - a German word, used in academia to describe the collection of manuscripts, notes, correspondence, and so on left behind when a scholar dies.
