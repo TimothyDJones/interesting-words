@@ -40,6 +40,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 - **nachlass** - a German word, used in academia to describe the collection of manuscripts, notes, correspondence, and so on left behind when a scholar dies.
 
 ## P
+- **[paremiology](https://en.m.wikipedia.org/wiki/Paremiology)** - The collection and study of proverbs. From the Greek παροιμία (paroimía) for _proverb_, _maxim_, or _saw_.
 - **[paroxysm](http://www.wesjones.com/eoh.htm)** - Sudden, often violent and/or uncontrollable, outburst (or fit or attack) of emotion or action. Literally "to sharpen the goads" in Greek.
 - **[plangent](https://en.wikipedia.org/wiki/The_Martian_Chronicles)** - Loud and resounding: plangent bells. Expressing or suggesting sadness; plaintive: "From a doorway came the plangent sounds of a guitar" (Malcolm Lowry). "beating with a loud sound," 1822, from Latin plangentem (nominative plangens), present participle of plangere "to strike, beat" (see plague (n.)).
 - **[prorupt](http://bigthink.com/strange-maps/595-its-always-chile-in-norway-the-five-types-of-territorial-morphology)** - Geographic term that describes a landmass split into a major and minor part joined by a short "corridor".
