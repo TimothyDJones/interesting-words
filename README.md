@@ -49,3 +49,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 ## S
 - **sangfroid** or **sang-froid** - Literally "cold blood" in French. Poise, calmness, or composure, especially in difficult or dangerous situations.
 - **[simulacrum](https://www.newyorker.com/culture/cultural-comment/the-growing-emptiness-of-the-star-wars-universe)** - A representation or imitation of a person or thing, originally describing statues or paintings of those things, but, now, often referring to simulated environments, such as the *Star Trek* holodeck or *Westworld*.
+
+## X
+
+- **xerophile** - From the Greek for "dry loving". Organisms that can grow and reproduce in conditions of low availability of water. Cacti are the most common examples, but many common molds are also xerophiles.
