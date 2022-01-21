@@ -38,6 +38,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 
 ## N
 - **nachlass** - a German word, used in academia to describe the collection of manuscripts, notes, correspondence, and so on left behind when a scholar dies.
+- **[numinosity](https://books.google.com/books?id=NSjlftWk78kC)** - a sense of spiritual or supernatural awe, wonder, or mystery, especially of being overwhelmed by the greatness or superiority of such experiences.
 
 ## P
 - **[paroxysm](http://www.wesjones.com/eoh.htm)** - Sudden, often violent and/or uncontrollable, outburst (or fit or attack) of emotion or action. Literally "to sharpen the goads" in Greek.
