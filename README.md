@@ -34,6 +34,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 
 ## M
 - **mensch** - a person of integrity, compassion, and honor. More specifically, one who is to be admired and emulated as a result of noble character. From Yiddish word _mensch_ meaning "a decent human being".
+- **mephitic** - malodorous, foul-smelling or noxious, particularly of a gas or the atmosphere. Derived from the name _Mephitis_, the [Samnite](https://en.wikipedia.org/wiki/Samnites) god who controlled emission of poisonous gases from swamps and volcanoes.
 - **Mountweazel** - a bogus entry deliberately inserted in a reference work, usually as a safeguard against copyright infringement. The origin of the term is _The New Yorker_ writer Henry Alford, who used the fictitious name "Lillian Virginia Mountweazel" for a bogus entry in the fourth edition of _The New Columbia Encyclopedia_ [NCE] (1975).
 - **[murmuration](https://lithub.com/rebecca-solnit-when-the-hero-is-the-problem/)** - The swarm behavior of some birds, particularly starlings, when the flock flies and moves synchronously, often swooping, wheeling, and rising.
 
