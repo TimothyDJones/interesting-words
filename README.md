@@ -55,6 +55,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 
 ## T
 - **tenebrae** - Literally "darkness" in Latin. Darkness, gloom, or shadows, often used figuratively or poetically. Derived from the Christian commemoration during Holy Week in which candles are gradually extinguished on Thursday, Friday, and Saturday. 
+- **trenchant** - Keen, sharp, incisive, caustic, or cutting, especially as expressing strong criticism or forceful opinions.
 
 ## X
 
