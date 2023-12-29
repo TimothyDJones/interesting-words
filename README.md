@@ -60,3 +60,9 @@ Just a simple dictionary of words that I've found that I think are interesting..
 ## X
 
 - **xerophile** - From the Greek for "dry loving". Organisms that can grow and reproduce in conditions of low availability of water. Cacti are the most common examples, but many common molds are also xerophiles.
+
+
+---
+
+# Other Similar Lists
+- [Nick Black](https://nick-black.com/dankwiki/index.php/Wordlist)
