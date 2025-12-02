@@ -53,6 +53,7 @@ Just a simple dictionary of words that I've found that I think are interesting..
 ## S
 - **sangfroid** or **sang-froid** - Literally "cold blood" in French. Poise, calmness, or composure, especially in difficult or dangerous situations.
 - **[simulacrum](https://www.newyorker.com/culture/cultural-comment/the-growing-emptiness-of-the-star-wars-universe)** - A representation or imitation of a person or thing, originally describing statues or paintings of those things, but, now, often referring to simulated environments, such as the *Star Trek* holodeck or *Westworld*.
+- **spruik** - To strongly promote or advertise a thing or idea to another, usually in a lively or enthusiastic manner, but often informally. Chiefly Australian.
 - **[stigmergy](https://aethermug.com/posts/human-stigmergy)** - Complex self organization and coordination in systems or groups, not through direct interaction, but indirectly through modifying and sensing their shared local environment. Classic examples include ants and termites.
 - **[synecdoche](https://johnsundman.substack.com/p/silicon-valley-uber-alles)** - From Greek συνεκδοχή literally meaning "simultaneous understanding". A figure of speech in which the name of a part stands in for the whole or the whole represents the part. For example, in "boots on the ground", *boots* stands for soldiers.
 
